@@ -1,0 +1,13 @@
+nome = input('Escreva seu nome completo: ')
+idade = input('Insira sua idade: ')
+altura = input('Insira sua altura: ')
+cpf = input('Insira seu cpf: ')
+endereço = input('Insira seu endereço: ')
+telefone = input('Insira seu telefone: ')
+
+print('Nome:', nome)
+print('Idade:', idade)
+print('Altura:', altura)
+print('CPF:', cpf)
+print('Endereço:', endereço)
+print('Telefone:', telefone)
